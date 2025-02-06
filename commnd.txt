@@ -1,0 +1,38 @@
+git init
+git add .
+git commit -m "5-2-2024"
+git remote add origin https://github.com/thekoushikdurgas/deepseekstreamlit.git
+git branch -M main
+git push -u origin main -f
+
+git config --global user.email "koushik.btech.cse.19@nitap.ac.in"
+git config --global user.name "thekoushikdurgas"
+streamlit run filemanager.py
+
+
+
+Enpliment the Improvements  and now read all prompts and its answers give me full and final refractor code
+
+
+now read all prompts and its answers and give me full and final refractor streamlit codes according to filemanager.py,ai_client.py,project_explorer.py,ui_components.py,utils.py
+
+code_text = F"# 📄 File: {os.path.relpath(path, explorer.root_dir)}\n"+content+f"\n# Read {len(content)} characters from file '{path}' ({mimetypes.guess_type(path)[0]}) and  then you think how this streamlit code is improved response of prompts and atlast now apply this and give me full and final refractor streamlit codes according to filemanager.py,ai_client.py,project_explorer.py,ui_components.py,utils.py"
+
+
+read filemanager.py,ai_client.py,project_explorer.py,ui_components.py,utils.py and then solve
+
+and then give in whole codebase what changes
+
+
+
+flutter --version
+flutter doctor
+flutter doctor --android-licenses
+flutter run
+flutter pub get
+dart migrate
+
+flutter pub get
+
+
+
